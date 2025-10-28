@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaTeam Extensions" commit="9bb1642d185da4a3d5d0fbfef76531e65b7dac03">
+  <category name="Control Surfaces">
+    <reapack name="navelpluisje_ReaSonus Native.ext" type="extension" desc="ReaSonus Native Test">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 ReaSonus Native\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The REAPER extension fully catered for the Presonus FaderPort.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Built for REAPER\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Rather than forcing you to revise your mixing method, the FaderPort augments the way you currently mix. You still use your faithful keyboard and mouse for things they do well, and the FaderPort handles the features you want to get your fingers on, allowing you to customize your workflow.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Studio One and more\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaSonus Native has beside \u177 ?95% of the Studio One features also:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \u8216'Unlimited\u8217' custom editable filters\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab MIDI learn style plugin mapping\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Swap Shift buttons\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Controll last touched plugin param\sa180\par}
+}
+]]></description>
+        <link rel="website" href="https://navelpluisje.github.io/reasonus/">Documentation</link>
+        <link rel="website" href="https://github.com/navelpluisje/Reasonus-Native/issues">Report Issue</link>
+        <link rel="website" href="https://github.com/navelpluisje/Reasonus-Native">Repository</link>
+        <link rel="donation" href="https://en.tipeee.com/navelpluisje">Tipee</link>
+        <link rel="donation" href="https://buymeacoffee.com/navelpluisje">Buy me a coffee</link>
+      </metadata>
+      <version name="0.1.1" author="Navelpluisje" time="2025-05-28T22:17:36Z">
+        <changelog><![CDATA[Initial ReaPack version]]></changelog>
+        <source platform="darwin-arm64" file="reaper_ReasonusNative-arm64-x86_64.dylib">https://github.com/navelpluisje/Reasonus-Native/releases/download/v0.3.0-pre1/reaper_ReasonusNative-arm64-x86_64.dylib</source>
+        <source platform="win64" file="reaper_ReasonusNative-x64.dll">https://github.com/navelpluisje/Reasonus-Native/releases/download/v0.3.0-pre1/reaper_ReasonusNative-x64.dll</source>
+        <source platform="win32" file="reaper_ReasonusNative-x86.dll">https://github.com/navelpluisje/Reasonus-Native/releases/download/v0.3.0-pre1/reaper_ReasonusNative-x86.dll</source>
+        <source platform="darwin64" file="reaper_ReasonusNative-arm64-x86_64.dylib">https://github.com/navelpluisje/Reasonus-Native/releases/download/v0.3.0-pre1/reaper_ReasonusNative-arm64-x86_64.dylib</source>
+        <source file="ReaSonus/Locales/en-US.ini">https://github.com/navelpluisje/Reasonus-Native/releases/download/v0.3.0-pre1/en-US.ini</source>
+              </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 ReaTeam Extension Repository\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\cf1 [image: https://github.com/ReaTeam/Extensions/workflows/check/badge.svg]\cf0}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Community-maintained collection of extension plugins for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Copy and paste this URL in Extensions > ReaPack > Import a repository:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/ReaTeam/Extensions/raw/master/index.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Contributing\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Use {\field{\*\fldinst{HYPERLINK "https://reapack.com/upload/extension"}}{\fldrslt{\ul
+https://reapack.com/upload/extension
+}}}
+ to publish your extension plugin on this repository.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Have a question? Come discuss in the {\field{\*\fldinst{HYPERLINK "https://forum.cockos.com/showthread.php?t=169127"}}{\fldrslt{\ul
+development thread
+}}}
+.\par}
+}
+]]></description>
+  </metadata>
+</index>
