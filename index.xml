@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaSonus Test" commit="9bb1642d185da4a3d5d0fbfef76531e65b7dac03">
+<index version="1" name="ReaSonus Test" commit="9bb1642d185da4a3d5d0fbfef76531e65b7dac0">
   <category name="Control Surfaces">
     <reapack name="navelpluisje_ReaSonus Native.ext" type="extension" desc="ReaSonus Native Test">
       <metadata>
