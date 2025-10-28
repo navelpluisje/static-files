@@ -25,13 +25,13 @@
         <link rel="donation" href="https://en.tipeee.com/navelpluisje">Tipee</link>
         <link rel="donation" href="https://buymeacoffee.com/navelpluisje">Buy me a coffee</link>
       </metadata>
-      <version name="0.1.2" author="Navelpluisje" time="2025-05-28T22:17:36Z">
+      <version name="0.1.3" author="Navelpluisje" time="2025-05-28T22:17:36Z">
         <changelog><![CDATA[Initial ReaPack version]]></changelog>
         <source platform="darwin-arm64" file="reaper_ReasonusNative-arm64-x86_64.dylib">https://github.com/navelpluisje/Reasonus-Native/releases/download/0.3.0-pre1/reaper_ReasonusNative-arm64-x86_64.dylib</source>
         <source platform="win64" file="reaper_ReasonusNative-x64.dll">https://github.com/navelpluisje/Reasonus-Native/releases/download/0.3.0-pre1/reaper_ReasonusNative-x64.dll</source>
         <source platform="win32" file="reaper_ReasonusNative-x86.dll">https://github.com/navelpluisje/Reasonus-Native/releases/download/0.3.0-pre1/reaper_ReasonusNative-x86.dll</source>
         <source platform="darwin64" file="reaper_ReasonusNative-arm64-x86_64.dylib">https://github.com/navelpluisje/Reasonus-Native/releases/download/0.3.0-pre1/reaper_ReasonusNative-arm64-x86_64.dylib</source>
-        <source file="ReaSonus/Locales/en-US.ini">https://github.com/navelpluisje/Reasonus-Native/releases/download/0.3.0-pre1/en-US.ini</source>
+        <source file="../ReaSonus/Locales/en-US.ini">https://github.com/navelpluisje/Reasonus-Native/releases/download/0.3.0-pre1/en-US.ini</source>
               </version>
     </reapack>
   </category>
